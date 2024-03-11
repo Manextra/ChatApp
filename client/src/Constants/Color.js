@@ -1,0 +1,1 @@
+export const gray = "#17C3B2"
